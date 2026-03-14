@@ -1,4 +1,4 @@
-## building engines and making music 👋
+## Building engines and making music 👋
 
 ![Views](https://komarev.com/ghpvc/?username=etch-2434&color=blue&style=flat-square)
 <!--

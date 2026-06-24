@@ -1,7 +1,6 @@
-## Building engines and making music 👋
 
 <p align="center">
-  <img src="./cat.svg" width="840" alt="ASCII cat playing the piano">
+  <img src="./cat.png" width="840" alt="ASCII cat playing the piano">
 </p>
 
 ![Views](https://komarev.com/ghpvc/?username=etch-2434&color=blue&style=flat-square)

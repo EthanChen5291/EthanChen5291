@@ -1,5 +1,9 @@
 ## Building engines and making music 👋
 
+<p align="center">
+  <img src="./cat.svg" width="840" alt="ASCII cat playing the piano">
+</p>
+
 ![Views](https://komarev.com/ghpvc/?username=etch-2434&color=blue&style=flat-square)
 <!--
 **EthanChen5291/EthanChen5291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
